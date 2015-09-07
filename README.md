@@ -1,4 +1,6 @@
 Nothing la
 sohai
 zzz
-fuck sosososo what
+<<<<<<< HEAD
+fuck  niama sosososo what
+=======
